@@ -1,0 +1,3 @@
+Below is a text. After the text, you will be asked a number of questions. Answer each question with yes or no only.
+
+Here is the text:
