@@ -1,4 +1,4 @@
-You will now receive one or more questions. Answer each question with yes or no only. Separate each yes or no with a comma.
+You will now receive one or more questions. Answer each question with yes or no only. Separate each yes or no with a semicolon.
 Is this text's author a person with a lot of friends?
 Was this text originally intended to be an educational leaflet?
 Did this text first become public in 2002?
